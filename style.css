@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.main{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.watch{
+    font-size: 150px;
+    color: white;
+}
+.button{
+    text-align: center;
+}
+.start{
+    border-radius: 10px;
+    margin-left: 550px;
+    background-color: yellowgreen;
+    color: white;
+    height: 40px;
+    width: 70px;    
+    
+}
